@@ -1,0 +1,16 @@
+{
+  "name": "PersonalBlog",
+  "version": "1.0.0",
+  "description": "PersonalBlog's server",
+  "main": "index.js",
+  "author": "JLF",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "log4js": "^6.3.0",
+    "md5": "^2.3.0",
+    "moment": "^2.29.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.3.5"
+  }
+}
